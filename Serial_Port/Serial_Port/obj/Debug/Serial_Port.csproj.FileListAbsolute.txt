@@ -1,0 +1,10 @@
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\bin\Debug\Serial_Port.exe.config
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\bin\Debug\Serial_Port.exe
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\bin\Debug\Serial_Port.pdb
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csproj.AssemblyReference.cache
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\obj\Debug\Serial_Port.Form1.resources
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\obj\Debug\Serial_Port.Properties.Resources.resources
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csproj.GenerateResource.cache
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\obj\Debug\Serial_Port.csproj.CoreCompileInputs.cache
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\obj\Debug\Serial_Port.exe
+C:\Users\kanri\source\repos\Serial_Port\Serial_Port\obj\Debug\Serial_Port.pdb
