@@ -23,4 +23,4 @@
 <p><h3><div align="center">図1.3 Arudino回路図</h3></div></p>
 
 <!-- fig3に対する説明 -->
-<p>図2.1はNANISHI-TEN(プロトタイプ)を組む上で採用したArduinoの回路図である.基本的にこれと同じ回路を組み、ソフトウェア/SerialPortからC# Applicationをダウンロードしてexeファイルを実行すればNANISHI-TENを動作させることができる.</p>
+<p>図1.3はNANISHI-TEN(プロトタイプ)を組む上で採用したArduinoの回路図である.基本的にこれと同じ回路を組み、ソフトウェア/SerialPortからC# Applicationをダウンロードしてexeファイルを実行すればNANISHI-TENを動作させることができる.</p>
